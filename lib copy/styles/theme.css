@@ -87,8 +87,9 @@ body {
   }
 }
 body {
-  --base-h: 180;
-  --base-s: 0%;
+  /* HERE PAUL */
+  --base-h: 160;
+  --base-s: 20%;
   --base-l: 96%;
   --accent-h: 201;
   --accent-s: 17%;
